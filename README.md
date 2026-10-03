@@ -9,13 +9,15 @@ Building intelligent, data-driven systems and turning ideas into real-world solu
 <br>
 
 <a href="https://github.com/TanishhTiwarii">
-  <img src="https://img.shields.io/badge/GitHub-TanishhTiwarii-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-TanishhTiwarii-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://www.linkedin.com/in/tanish-tiwari-0b5869415/">
-  <img src="https://img.shields.io/badge/LinkedIn-Tanish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Tanish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="mailto:mailtanishtiwari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
@@ -28,9 +30,9 @@ Building intelligent, data-driven systems and turning ideas into real-world solu
 
 # About Me
 
-I'm a **B.Sc. Data Science student** focused on building practical solutions with **Python, Data Science, Artificial Intelligence and Machine Learning**.
+I'm a **B.Sc. Data Science student** focused on building practical solutions using **Python, Data Science, Artificial Intelligence and Machine Learning**.
 
-I enjoy taking ideas from concept to implementation — combining data, software engineering and intelligent systems to build useful real-world applications.
+I enjoy taking ideas from concept to implementation — combining data, software engineering and intelligent systems to create useful real-world applications.
 
 - Currently working on **[GatiRaksha](https://github.com/TanishhTiwarii/GatiRaksha)**
 - Currently learning **Machine Learning, Data Science, AI/ML and Backend Development**
@@ -108,23 +110,17 @@ I enjoy taking ideas from concept to implementation — combining data, software
 
 <div align="center">
 
-<a href="https://github.com/TanishhTiwarii">
-<img src="https://github-readme-stats.vercel.app/api?username=tanishhtiwarii&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180" alt="GitHub Statistics">
-</a>
-
-<a href="https://github.com/TanishhTiwarii">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishhtiwarii&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages">
-</a>
-
-</div>
-
----
-
-# Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=tanishhtiwarii&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-cards/overview.dark.svg"
+  >
+  <img
+    src="./profile-cards/overview.light.svg"
+    width="100%"
+    alt="GitHub Overview Statistics"
+  >
+</picture>
 
 </div>
 
@@ -134,19 +130,91 @@ I enjoy taking ideas from concept to implementation — combining data, software
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishhtiwarii&bg_color=00000000&color=0e75b6&line=0e75b6&point=1f6feb&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-cards/contributions.dark.svg"
+  >
+  <img
+    src="./profile-cards/contributions.light.svg"
+    width="100%"
+    alt="GitHub Contribution Activity and Streak"
+  >
+</picture>
 
 </div>
 
 ---
 
-# GitHub Achievements
+# Contribution History
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=tanishhtiwarii&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Profile Trophies">
-</a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-cards/lifetime.dark.svg"
+  >
+  <img
+    src="./profile-cards/lifetime.light.svg"
+    width="100%"
+    alt="GitHub Contribution History"
+  >
+</picture>
+
+</div>
+
+---
+
+# GitHub Activity Rhythm
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-cards/rhythm.dark.svg"
+  >
+  <img
+    src="./profile-cards/rhythm.light.svg"
+    width="100%"
+    alt="GitHub Activity Rhythm"
+  >
+</picture>
+
+</div>
+
+---
+
+# GitHub Overview
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-cards/repositories.dark.svg"
+  >
+  <img
+    src="./profile-cards/repositories.light.svg"
+    width="100%"
+    alt="GitHub Repository Activity"
+  >
+</picture>
+
+<br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-cards/languages.dark.svg"
+  >
+  <img
+    src="./profile-cards/languages.light.svg"
+    width="100%"
+    alt="GitHub Languages Overview"
+  >
+</picture>
 
 </div>
 
@@ -156,11 +224,10 @@ I enjoy taking ideas from concept to implementation — combining data, software
 
 <div align="center">
 
-<a href="https://github.com/TanishhTiwarii/GatiRaksha">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TanishhTiwarii&repo=GatiRaksha&hide_border=true&theme=transparent" alt="GatiRaksha">
-</a>
+<table>
+<tr>
 
-</div>
+<td width="50%" valign="top">
 
 ## GatiRaksha
 
@@ -168,29 +235,44 @@ I enjoy taking ideas from concept to implementation — combining data, software
 
 A smart traffic-management platform focused on real-time incident handling, traffic intelligence, dynamic routing, emergency response and map-based navigation.
 
-### Core Areas
-
-`AI/ML` `Computer Vision` `Real-Time Systems` `Maps` `Routing` `Traffic Intelligence`
-
 <br>
 
-<a href="https://github.com/TanishhTiwarii/GatiRaksha">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GatiRaksha Repository">
-</a>
+`AI/ML` `Computer Vision` `Real-Time Systems`
 
----
-
-# GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishhtiwarii&theme=github_dark" width="100%" alt="GitHub Profile Details">
+`Maps` `Routing` `Traffic Intelligence`
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishhtiwarii&theme=github_dark" width="49%" alt="Languages by Repository">
+<a href="https://github.com/TanishhTiwarii/GatiRaksha">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GatiRaksha">
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishhtiwarii&theme=github_dark" width="49%" alt="Languages by Commit">
+</td>
+
+<td width="50%" valign="top">
+
+## Data Science
+
+**Data-Driven Projects & Experiments**
+
+Exploring data analysis, machine learning, predictive modelling, visualization and intelligent systems through practical implementations.
+
+<br>
+
+`Python` `Data Science` `Machine Learning`
+
+`Artificial Intelligence` `Data Analysis`
+
+<br><br>
+
+<a href="https://github.com/TanishhTiwarii?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
