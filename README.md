@@ -1,289 +1,158 @@
-<div align="center">
-
 # Hi, I'm Tanish Tiwari
 
-### Data Science Student • Python Developer • AI/ML Enthusiast
+### Data Science Student | Python Developer | AI/ML Enthusiast | Building Intelligent Systems
 
-Building intelligent, data-driven systems and turning ideas into real-world solutions.
-
-<br>
-
-<a href="https://github.com/TanishhTiwarii">
-<img src="https://img.shields.io/badge/GitHub-TanishhTiwarii-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/tanish-tiwari-0b5869415/">
-<img src="https://img.shields.io/badge/LinkedIn-Tanish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="mailto:mailtanishtiwari@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=tanishhtiwarii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-
-</div>
+<p align="left">
+  <a href="https://github.com/TanishhTiwarii">
+    <img src="https://img.shields.io/badge/GitHub-TanishhTiwarii-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/tanish-tiwari-0b5869415/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:mailtanishtiwari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
-# About Me
+## About Me
 
-I'm a **B.Sc. Data Science student** focused on building practical solutions using **Python, Data Science, Artificial Intelligence and Machine Learning**.
+I'm a **B.Sc. Data Science student** focused on building practical software, data-driven applications and intelligent systems.
 
-I enjoy taking ideas from concept to implementation — combining data, software engineering and intelligent systems to create useful real-world applications.
+I enjoy working at the intersection of **Data Science, Artificial Intelligence, Machine Learning and Software Development**.
 
-- Currently working on **[GatiRaksha](https://github.com/TanishhTiwarii/GatiRaksha)**
-- Currently learning **Machine Learning, Data Science, AI/ML and Backend Development**
-- Exploring **Computer Vision, Intelligent Systems and Real-Time Applications**
-- Interested in **AI-powered products and data-driven systems**
-- Open to collaborating on **AI, ML, Data Science and software projects**
-- Ask me about **Python, Data Science, Machine Learning and AI**
-- I enjoy turning ideas into working projects
+- Currently building **GatiRaksha**, an intelligent traffic management and navigation platform
+- Learning and strengthening **Python, Data Science, Machine Learning and AI**
+- Interested in **real-time systems, computer vision and intelligent applications**
+- Building projects that combine **data, automation and real-world problem solving**
+- Continuously improving my development, analytical and problem-solving skills
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-<div align="center">
+### Languages
 
-### Programming
-
-<a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55" alt="C">
-</a>
-
-<br><br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45" alt="Bash">
+</p>
 
 ### Data Science & AI
 
-<a href="https://pandas.pydata.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://numpy.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://pytorch.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch">
-</a>
-
-<br><br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn">
+</p>
 
 ### Development & Tools
 
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50" alt="Bash">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.blender.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50" height="50" alt="Blender">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="50" alt="Photoshop">
-</a>
-
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="45" height="45" alt="Blender">
+</p>
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
+## GitHub Analytics
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-cards/overview.dark.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/overview.dark.svg">
   <img
     src="./profile-cards/overview.light.svg"
+    alt="GitHub Overview"
     width="100%"
-    alt="GitHub Overview Statistics"
   >
 </picture>
 
-</div>
-
 ---
 
-# Contribution Activity
-
-<div align="center">
+## Contribution Streak
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-cards/contributions.dark.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/contributions.dark.svg">
   <img
     src="./profile-cards/contributions.light.svg"
+    alt="GitHub Contributions"
     width="100%"
-    alt="GitHub Contribution Activity and Streak"
   >
 </picture>
 
-</div>
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/momentum.dark.svg">
+  <img
+    src="./profile-cards/momentum.light.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  >
+</picture>
 
 ---
 
-# Contribution History
-
-<div align="center">
+## Contribution History
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-cards/lifetime.dark.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/lifetime.dark.svg">
   <img
     src="./profile-cards/lifetime.light.svg"
-    width="100%"
     alt="GitHub Contribution History"
-  >
-</picture>
-
-</div>
-
----
-
-# GitHub Activity Rhythm
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-cards/rhythm.dark.svg"
-  >
-  <img
-    src="./profile-cards/rhythm.light.svg"
     width="100%"
-    alt="GitHub Activity Rhythm"
   >
 </picture>
 
-</div>
-
 ---
 
-# GitHub Overview
+## Repository & Language Overview
 
-<div align="center">
+### Repositories
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-cards/repositories.dark.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/repositories.dark.svg">
   <img
     src="./profile-cards/repositories.light.svg"
+    alt="GitHub Repositories"
     width="100%"
-    alt="GitHub Repository Activity"
   >
 </picture>
 
-<br><br>
+### Languages
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-cards/languages.dark.svg"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-cards/languages.dark.svg">
   <img
     src="./profile-cards/languages.light.svg"
+    alt="GitHub Languages"
     width="100%"
-    alt="GitHub Languages Overview"
   >
 </picture>
 
-</div>
+---
+
+## Featured Projects
+
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **[GatiRaksha](https://github.com/TanishhTiwarii/GatiRaksha)** | Intelligent traffic management and navigation platform focused on real-time incidents, traffic intelligence and dynamic routing. | Python, AI/ML, Maps, Real-Time Systems |
+| **Data Science Projects** | Practical projects focused on data analysis, machine learning, visualization and predictive modelling. | Python, Pandas, NumPy, Scikit-learn |
 
 ---
 
-# Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## GatiRaksha
-
-**Intelligent Traffic Management & Navigation System**
-
-A smart traffic-management platform focused on real-time incident handling, traffic intelligence, dynamic routing, emergency response and map-based navigation.
-
-<br>
-
-`AI/ML` `Computer Vision` `Real-Time Systems`
-
-`Maps` `Routing` `Traffic Intelligence`
-
-<br><br>
-
-<a href="https://github.com/TanishhTiwarii/GatiRaksha">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GatiRaksha">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## Data Science
-
-**Data-Driven Projects & Experiments**
-
-Exploring data analysis, machine learning, predictive modelling, visualization and intelligent systems through practical implementations.
-
-<br>
-
-`Python` `Data Science` `Machine Learning`
-
-`Artificial Intelligence` `Data Analysis`
-
-<br><br>
-
-<a href="https://github.com/TanishhTiwarii?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# What I'm Exploring
-
-<div align="center">
+## What I'm Exploring
 
 | Area | Focus |
-|:---:|:---|
+|:---|:---|
 | Artificial Intelligence | Intelligent applications and AI systems |
 | Machine Learning | Predictive models and practical ML |
 | Data Science | Data analysis, visualization and insights |
@@ -292,75 +161,70 @@ Exploring data analysis, machine learning, predictive modelling, visualization a
 | Backend Development | APIs, services and scalable systems |
 | Real-Time Applications | Live data and event-driven systems |
 
-</div>
+---
+
+## Current Focus
+
+| GatiRaksha | Data Science |
+|:---|:---|
+| **Building an intelligent traffic management and navigation platform** with:<br><br>• Real-time incident handling<br>• Dynamic route management<br>• Traffic intelligence<br>• Emergency alerts<br>• Map-based navigation<br>• AI/ML integration | **Currently strengthening:**<br><br>• Python<br>• Statistics<br>• Data Analysis<br>• Machine Learning<br>• Model Evaluation<br>• Data Visualization<br>• AI Systems |
 
 ---
 
-<h2>Current Focus</h2>
+## Development Philosophy
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+I believe in learning by building.
 
-<h3>GatiRaksha</h3>
+My approach is simple:
 
-<p>Building an intelligent traffic management and navigation platform with:</p>
+**Learn → Build → Test → Improve → Repeat**
 
-<ul>
-<li>Real-time incident handling</li>
-<li>Dynamic route management</li>
-<li>Traffic intelligence</li>
-<li>Emergency alerts</li>
-<li>Map-based navigation</li>
-<li>AI/ML integration</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Data Science</h3>
-
-<p>Currently strengthening:</p>
-
-<ul>
-<li>Python</li>
-<li>Statistics</li>
-<li>Data Analysis</li>
-<li>Machine Learning</li>
-<li>Model Evaluation</li>
-<li>Data Visualization</li>
-<li>AI Systems</li>
-</ul>
-
-</td>
-</tr>
-</table>
+I focus on understanding the problem first, choosing the right technology for it, and then building solutions that are practical, maintainable and useful in real-world scenarios.
 
 ---
 
-# Connect With Me
+## Currently Learning
 
-<div align="center">
+- Advanced Python
+- Data Analysis
+- Statistics for Data Science
+- Machine Learning
+- Model Evaluation
+- Data Visualization
+- Artificial Intelligence
+- Computer Vision
+- Backend Development
+- Real-Time Systems
 
-<a href="https://github.com/TanishhTiwarii">
-<img src="https://img.shields.io/badge/GitHub-TanishhTiwarii-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+---
 
-<a href="https://www.linkedin.com/in/tanish-tiwari-0b5869415/">
-<img src="https://img.shields.io/badge/LinkedIn-Tanish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+## Connect With Me
 
-<a href="https://instagram.com/tanish_tiwari_07">
-<img src="https://img.shields.io/badge/Instagram-tanish__tiwari__07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<p align="left">
+  <a href="https://github.com/TanishhTiwarii">
+    <img src="https://img.shields.io/badge/GitHub-TanishhTiwarii-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/tanish-tiwari-0b5869415/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tanish%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/tanish_tiwari_07">
+    <img src="https://img.shields.io/badge/Instagram-tanish__tiwari__07-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="mailto:mailtanishtiwari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mailtanishtiwari%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
-<a href="mailto:mailtanishtiwari@gmail.com">
-<img src="https://img.shields.io/badge/Email-mailtanishtiwari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+---
 
-<br><br>
+## GitHub Profile
 
-### Build. Learn. Improve. Repeat.
+<p align="center">
+  <a href="https://github.com/TanishhTiwarii">
+    <img src="https://komarev.com/ghpvc/?username=TanishhTiwarii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <b>Building skills. Building projects. Building systems.</b>
+</p>
