@@ -296,42 +296,44 @@ Exploring data analysis, machine learning, predictive modelling, visualization a
 
 ---
 
-# Current Focus
+<h2>Current Focus</h2>
 
-<table>
+<table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-## GatiRaksha
+<h3>GatiRaksha</h3>
 
-Building an intelligent traffic platform with:
+<p>Building an intelligent traffic management and navigation platform with:</p>
 
-- Real-time incident handling
-- Dynamic route management
-- Traffic intelligence
-- Emergency alerts
-- Map-based navigation
-- AI/ML integration
+<ul>
+<li>Real-time incident handling</li>
+<li>Dynamic route management</li>
+<li>Traffic intelligence</li>
+<li>Emergency alerts</li>
+<li>Map-based navigation</li>
+<li>AI/ML integration</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-## Data Science
+<h3>Data Science</h3>
 
-Currently strengthening:
+<p>Currently strengthening:</p>
 
-- Python
-- Statistics
-- Data Analysis
-- Machine Learning
-- Model Evaluation
-- Data Visualization
-- AI Systems
+<ul>
+<li>Python</li>
+<li>Statistics</li>
+<li>Data Analysis</li>
+<li>Machine Learning</li>
+<li>Model Evaluation</li>
+<li>Data Visualization</li>
+<li>AI Systems</li>
+</ul>
 
 </td>
-
 </tr>
 </table>
 
