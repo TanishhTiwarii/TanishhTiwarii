@@ -298,12 +298,14 @@ Exploring data analysis, machine learning, predictive modelling, visualization a
 
 # Current Focus
 
+<div align="center">
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## GatiRaksha
+### GatiRaksha
 
 Building an intelligent traffic platform with:
 
@@ -318,7 +320,7 @@ Building an intelligent traffic platform with:
 
 <td width="50%" valign="top">
 
-## Data Science
+### Data Science
 
 Currently strengthening:
 
@@ -334,6 +336,8 @@ Currently strengthening:
 
 </tr>
 </table>
+
+</div>
 
 ---
 
