@@ -34,7 +34,6 @@ I'm a **B.Sc. Data Science student** focused on building practical solutions usi
 
 I enjoy taking ideas from concept to implementation — combining data, software engineering and intelligent systems to create useful real-world applications.
 
-- Currently working on **[GatiRaksha](https://github.com/TanishhTiwarii/GatiRaksha)**
 - Currently learning **Machine Learning, Data Science, AI/ML and Backend Development**
 - Exploring **Computer Vision, Intelligent Systems and Real-Time Applications**
 - Interested in **AI-powered products and data-driven systems**
